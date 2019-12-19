@@ -169,7 +169,7 @@ $(document).ready(function(){
 
 
     <div class="footer-copyright text-center py-3">Made by  Rahul:
-      <a href="https://t.me/@Stevenbin"> Rahul</a>
+      <a href="https://t.me/Stevenbin"> Rahul</a>
     </div>
 
 
