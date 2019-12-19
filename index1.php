@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>CC CHECKER BY DeadseC</title>
+	<title>CC CHECKER BY Rahul</title>
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.11/css/mdb.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -11,7 +11,7 @@
 	<br>
 		<div class="row col-md-12">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<div class="card col-sm-8"><b><font size='5.80' color='#FF0000'>SCRIPT MADE BY 🔥𝐃𝐞𝐚𝐃𝐬𝐞𝐂 𝐃𝐞𝐚𝐃𝐌𝐚𝐍🔥</b></font>
+<div class="card col-sm-8"><b><font size='5.80' color='#FF0000'>SCRIPT MADE BY Rahul</b></font>
   <div class="card-body">
     <center><span><b><font size='5.80' color='#0022FF'>[#CC CHECKER]</b></font></span></center>
 <div class="md-form">
@@ -29,7 +29,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <div class="card col-sm-2">
   <h5 class="card-body h6">Help by</h5>
- <a href="https://t.me/MrCoderAbhi">      MrCoderAbhi</a>
+ <a href="https://t.me/Stevenbin">      Rahul</a>
   <div class="card-body">
   	<span>Status:</span><span class="badge badge-secondary"> Awaiting command.</span>
 <div class="md-form">
@@ -168,8 +168,8 @@ $(document).ready(function(){
 <footer >
 
 
-    <div class="footer-copyright text-center py-3">Made by  🔥𝐃𝐞𝐚𝐃𝐬𝐞𝐂 𝐃𝐞𝐚𝐃𝐌𝐚𝐍🔥:
-      <a href="https://t.me/PAPA_PLEASE"> DeadseC</a>
+    <div class="footer-copyright text-center py-3">Made by  Rahul:
+      <a href="https://t.me/@Stevenbin"> Rahul</a>
     </div>
 
 
