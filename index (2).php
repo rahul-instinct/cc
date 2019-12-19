@@ -169,7 +169,7 @@ $(document).ready(function(){
 
 
     <div class="footer-copyright text-center py-3">Made by Hades:
-      <a href="https://discordapp.com/"> Hades#7362</a>
+      <a href="https://t.me/Stevenbin"> Rahul</a>
     </div>
 
 
